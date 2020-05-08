@@ -1,7 +1,5 @@
 # Css-Preset
 
-# Em desenvolvimento...
-Um simples css com predefinições. 
-# developing...
-A simple css preset. 
+Um simples css com predefinições. A simple css preset.  
 
+# Em desenvolvimento... Developing...
