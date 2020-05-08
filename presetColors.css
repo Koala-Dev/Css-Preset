@@ -1,0 +1,168 @@
+/*-----------color font-------------*/
+        /* Gray-Colors */
+.cf-Black{color:#000000}
+.cf-DimGray{color:#696969}
+.cf-Gray{color:#808080}
+.cf-DarkGray{color:#A9A9A9}
+        /* Blue-Colors */
+.cf-SlateBlue{color:#6A5ACD}
+.cf-DarkSlateBlue{color:#483D8B}
+.cf-MidnightBlue{color:#191970}
+.cf-Navy{color:#000080}
+.cf-Blue{color:#0000FF}
+        /* Cyan-Colors */
+.cf-Aqua {color:#00FFFF}
+.cf-Turquoise {color:#40E0D0}
+.cf-DarkCyan {color:#008B8B}
+.cf-Teal {color:#008080}
+.cf-Aquamarine {color:#7FFFD4}
+        /* Green-Colors */
+.cf-DarkSlateGray{color:#2F4F4F}        
+.cf-MediumSpringGreen{color:#00FA9A}        
+.cf-SpringGreen{color:#00FF7F}        
+.cf-LightGreen{color:#90EE90}        
+.cf-SeaGreen{color:#2E8B57}        
+.cf-DarkGreen{color:#006400}        
+.cf-Green{color:#008000}        
+.cf-Lime{color:#00FF00}        
+.cf-LawnGreen{color:#7CFC00}        
+.cf-DarkOliveGreen{color:#556B2F}        
+.cf-Olive{color:#808000}     
+        /* Brown-Colors */
+.cf-DarkKhaki{color:#BDB76B}
+.cf-Goldenrod{color:#DAA520}
+.cf-DarkGoldenrod{color:#B8860B}
+.cf-SaddleBrown{color:#8B4513}
+.cf-Chocolate{color:#D2691E}
+.cf-BurlyWood{color:#DEB887}
+        /* Purple-Colors */
+.cf-BlueViolet{color:#8A2BE2}
+.cf-Indigo{color:#4B0082}
+.cf-DarkViolet{color:#9400D3}
+.cf-MediumOrchid{color:#BA55D3}
+.cf-Purple{color:#A020F0}
+.cf-DarkMagenta{color:#8B008B}
+.cf-Magenta{color:#FF00FF}
+.cf-Violet{color:#EE82EE}
+.cf-Orchid{color:#DA70D6}
+        /* Pink-Colors */
+.cf-MediumVioletRed{color:#C71585}
+.cf-DeepPink{color:#FF1493}
+.cf-HotPink{color:#FF69B4}
+.cf-Pink{color:#FFC0CB}
+.cf-Crimson{color:#DC143C}
+        /* Red-Colors */
+.cf-Maroon{color:#800000}
+.cf-DarkRed{color:#8B0000}
+.cf-FireBrick{color:#B22222}
+.cf-Brown{color:#A52A2A}
+.cf-Coral{color:#FF7F50}
+.cf-Tomato{color:#FF6347}
+.cf-Red{color:#FF0000}
+        /* Orange-Colors */
+.cf-OrangeRed{color:#FF4500}
+.cf-DarkOrange{color:#FF8C00}
+.cf-Orange{color:#FFA500}
+        /* Yellow-Colors */
+.cf-Gold{color:#FFD700}
+.cf-Yellow{color:#FFFF00}
+.cf-Khaki{color:#F0E68C}
+        /* Light-Colors */
+.cf-White{color:#FFFFFF}
+.cf-Beige{color:#F5F5DC}
+.cf-OldLace{color:#FDF5E6}
+.cf-Ivory{color:#FFFFF0}
+.cf-AntiqueWhite{color:#FAEBD7}
+.cf-Bisque{color:#FFE4C4}
+.cf-PeachPuff{color:#FFDAB9}
+.cf-Moccasin{color:#FFE4B5}
+.cf-MistyRose{color:#FFE4E1}
+.cf-Lavender{color:#E6E6FA}
+.cf-Thistle{color:#D8BFD8}
+.cf-Azure{color:#F0FFFF}
+.cf-LightCyan{color:#E0FFFF}
+.cf-PowderBlue{color:#B0E0E6}
+/*--------color background----------*/
+        /* Gray-Colors */
+.bg-Black{background-color:#000000}
+.bg-DimGray{background-color:#696969}
+.bg-Gray{background-color:#808080}
+.bg-DarkGray{background-color:#A9A9A9}
+        /* Blue-Colors */
+.bg-SlateBlue{background-color:#6A5ACD}
+.bg-DarkSlateBlue{background-color:#483D8B}
+.bg-MidnightBlue{background-color:#191970}
+.bg-Navy{background-color:#000080}
+.bg-Blue{background-color:#0000FF}
+        /* Cyan-Colors */
+.bg-Aqua {background-color:#00FFFF}
+.bg-Turquoise {background-color:#40E0D0}
+.bg-DarkCyan {background-color:#008B8B}
+.bg-Teal {background-color:#008080}
+.bg-Aquamarine {background-color:#7FFFD4}
+        /* Green-Colors */
+.bg-DarkSlateGray{background-color:#2F4F4F}        
+.bg-MediumSpringGreen{background-color:#00FA9A}        
+.bg-SpringGreen{background-color:#00FF7F}        
+.bg-LightGreen{background-color:#90EE90}        
+.bg-SeaGreen{background-color:#2E8B57}        
+.bg-DarkGreen{background-color:#006400}        
+.bg-Green{background-color:#008000}        
+.bg-Lime{background-color:#00FF00}        
+.bg-LawnGreen{background-color:#7CFC00}        
+.bg-DarkOliveGreen{background-color:#556B2F}        
+.bg-Olive{background-color:#808000}     
+        /* Brown-Colors */
+.bg-DarkKhaki{background-color:#BDB76B}
+.bg-Goldenrod{background-color:#DAA520}
+.bg-DarkGoldenrod{background-color:#B8860B}
+.bg-SaddleBrown{background-color:#8B4513}
+.bg-Chocolate{background-color:#D2691E}
+.bg-BurlyWood{background-color:#DEB887}
+        /* Purple-Colors */
+.bg-BlueViolet{background-color:#8A2BE2}
+.bg-Indigo{background-color:#4B0082}
+.bg-DarkViolet{background-color:#9400D3}
+.bg-MediumOrchid{background-color:#BA55D3}
+.bg-Purple{background-color:#A020F0}
+.bg-DarkMagenta{background-color:#8B008B}
+.bg-Magenta{background-color:#FF00FF}
+.bg-Violet{background-color:#EE82EE}
+.bg-Orchid{background-color:#DA70D6}
+        /* Pink-Colors */
+.bg-MediumVioletRed{background-color:#C71585}
+.bg-DeepPink{background-color:#FF1493}
+.bg-HotPink{background-color:#FF69B4}
+.bg-Pink{background-color:#FFC0CB}
+.bg-Crimson{background-color:#DC143C}
+        /* Red-Colors */
+.bg-Maroon{background-color:#800000}
+.bg-DarkRed{background-color:#8B0000}
+.bg-FireBrick{background-color:#B22222}
+.bg-Brown{background-color:#A52A2A}
+.bg-Coral{background-color:#FF7F50}
+.bg-Tomato{background-color:#FF6347}
+.bg-Red{background-color:#FF0000}
+        /* Orange-Colors */
+.bg-OrangeRed{background-color:#FF4500}
+.bg-DarkOrange{background-color:#FF8C00}
+.bg-Orange{background-color:#FFA500}
+        /* Yellow-Colors */
+.bg-Gold{background-color:#FFD700}
+.bg-Yellow{background-color:#FFFF00}
+.bg-Khaki{background-color:#F0E68C}
+        /* Light-Colors */
+.bg-White{background-color:#FFFFFF}
+.bg-Beige{background-color:#F5F5DC}
+.bg-OldLace{background-color:#FDF5E6}
+.bg-Ivory{background-color:#FFFFF0}
+.bg-AntiqueWhite{background-color:#FAEBD7}
+.bg-Bisque{background-color:#FFE4C4}
+.bg-PeachPuff{background-color:#FFDAB9}
+.bg-Moccasin{background-color:#FFE4B5}
+.bg-MistyRose{background-color:#FFE4E1}
+.bg-Lavender{background-color:#E6E6FA}
+.bg-Thistle{background-color:#D8BFD8}
+.bg-Azure{background-color:#F0FFFF}
+.bg-LightCyan{background-color:#E0FFFF}
+.bg-PowderBlue{background-color:#B0E0E6}
